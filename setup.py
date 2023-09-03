@@ -51,7 +51,7 @@ if sys.version_info[:2] > (3, 11):
 
 
 setuptools.setup(
-    name="skforecast",
+    name="skforecast_valentin",
     version=VERSION,
     author="Joaquin Amat Rodrigo and Javier Escobar Ortiz",
     author_email="j.amatrodrigo@gmail.com, javier.escobar.ortiz@gmail.com",
